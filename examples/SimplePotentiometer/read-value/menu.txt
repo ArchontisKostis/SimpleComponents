@@ -1,0 +1,1 @@
+read-value=This example demonstrates how to use the `SimplePotentiometer` class to read the value of a potentiometer.

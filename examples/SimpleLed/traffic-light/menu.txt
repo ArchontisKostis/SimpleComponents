@@ -1,0 +1,1 @@
+traffic-light=This example sketch shows how to use the SimpleLed class to create a traffic light.
