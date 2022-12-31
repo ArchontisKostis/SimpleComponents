@@ -42,7 +42,7 @@ The SimpleComponents library comes with several example sketches that demonstrat
 
 ## Documentation 📖
 
-For detailed documentation on the functions and classes provided by the SimpleComponents library, please refer to the [library's documentation](https://your-username.github.io/SimpleComponents). 📚
+For detailed documentation on the functions and classes provided by the SimpleComponents library, please refer to the [library's documentation]https://archontiskostis.github.io/SimpleComponents/docs). 📚
 
 ## Features 💪
 
