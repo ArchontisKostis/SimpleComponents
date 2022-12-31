@@ -20,7 +20,7 @@ The easiest way to install SimpleComponents is using the Arduino IDE Library Man
 
 ### Method 2: Installing from the Releases Page 📥
 
-Alternatively, you can install SimpleComponents by downloading the latest release from the [releases page](https://github.com/your-username/SimpleComponents/releases) on GitHub. To do this, follow these steps:
+Alternatively, you can install SimpleComponents by downloading the latest release from the [releases page](https://github.com/ArchontisKostis/SimpleComponents/releases) on GitHub. To do this, follow these steps:
 
 1. Download the latest release from the releases page.
 2. Extract the zip file.
