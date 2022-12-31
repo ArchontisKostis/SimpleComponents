@@ -59,7 +59,7 @@ We welcome contributions to the SimpleComponents library! If you have an idea fo
 
 ## License 📜
 
-The SimpleComponents library is licensed under [insert license here]. Please see the [LICENSE](LICENSE) file for more information.
+The SimpleComponents library is licensed under the GNU General Public License (GPL). Please see the [LICENSE](LICENSE) file for more information.
 
 Thank you for using SimpleComponents! 🙌
 
