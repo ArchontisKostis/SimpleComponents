@@ -8,8 +8,6 @@ There are two ways to install the SimpleComponents library:
 
 ### Method 1: Using the Arduino IDE Library Manager 💻
 
->**Warning**: Currently, the Simple Components library is not available for download from the Arduino Library Manager. Stay tuned for updates on when it will be available!
-
 
 The easiest way to install SimpleComponents is using the Arduino IDE Library Manager. To do this, follow these steps:
 
