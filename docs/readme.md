@@ -8,7 +8,7 @@ For detailed information on the classes and methods provided by the library, see
 
 ## 🚀 Examples
 
-To see more concrete examples of how to use the library in an Arduino sketch, check out the [Library's Examples Folder](https://github.com/ArchontisKostis/SimpleComponents/tree/main/examples) or the [Documentation Examples](https://github.com/ArchontisKostis/SimpleComponents/tree/main/docs/examples). There, you'll find a collection of sketches that demonstrate different features of the library. You can use these sketches as a starting point for your own projects, or just to see how the library works.
+To see more concrete examples of how to use the library in an Arduino sketch, check out the [Library's Examples Folder](https://github.com/ArchontisKostis/SimpleComponents/tree/main/examples) or the [Documentation Examples](https://archontiskostis.github.io/SimpleComponents/docs/examples/). There, you'll find a collection of sketches that demonstrate different features of the library. You can use these sketches as a starting point for your own projects, or just to see how the library works.
 
 ## 📃 License
 
