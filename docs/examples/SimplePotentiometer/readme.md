@@ -4,7 +4,7 @@ This folder contains examples for the `SimplePotentiometer` class in the Simple 
 
 ## 📚 Table of Contents
 
-- [Read value from Potentiometer](https://github.com/ArchontisKostis/SimpleComponents/blob/main/docs/examples/SimplePotentiometer/read-value.md)
+- [Read value from Potentiometer](https://archontiskostis.github.io/SimpleComponents/docs/examples/SimplePotentiometer/read-value)
 
 ## 🤝 Contribute to the Examples
 
