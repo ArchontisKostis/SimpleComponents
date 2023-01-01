@@ -4,7 +4,7 @@ Welcome to the SimpleComponents library! This library was developed to provide s
 
 ## 📚 Reference
 
-For detailed information on the classes and methods provided by the library, see the [Reference Documentation](https://github.com/ArchontisKostis/SimpleComponents/blob/main/docs/Reference.md). The reference includes descriptions of each class and method, as well as example usage snippets to help you get started.
+For detailed information on the classes and methods provided by the library, see the [Reference Documentation](https://archontiskostis.github.io/SimpleComponents/docs/Reference). The reference includes descriptions of each class and method, as well as example usage snippets to help you get started.
 
 ## 🚀 Examples
 
