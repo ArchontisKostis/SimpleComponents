@@ -4,8 +4,8 @@ This folder contains examples for the `SimpleLed` class in the Simple Components
 
 ## 📚 Table of Contents
 
-- [Turn an LED ON/OFF](https://github.com/ArchontisKostis/SimpleComponents/blob/main/docs/examples/SimpleLed/on-off.md)
-- [Program a traffic light](https://github.com/ArchontisKostis/SimpleComponents/blob/main/docs/examples/SimpleLed/traffic-light.md)
+- [Turn an LED ON/OFF](https://archontiskostis.github.io/SimpleComponents/docs/examples/SimpleLed/on-off)
+- [Program a traffic light](https://archontiskostis.github.io/SimpleComponents/docs/examples/SimpleLed/traffic-light)
 
 ## 🤝 Contribute to the Examples
 
