@@ -1,4 +1,9 @@
 # 💡 SimpleComponents Library Reference
+Welcome the SimpleComponents Reference! The reference provides detailed documentation for each class and method in the SimpleComponents library. It is a useful resource for understanding how to use the various components and functions of the library.
+
+## Table of Contents
+- [💡 SimpleLed](#-class-simpleled)
+- [🔄 SimplePotentiometer](#-class-simplepotentiometer)
 
 ## 🏷 Class: SimpleLed
 
