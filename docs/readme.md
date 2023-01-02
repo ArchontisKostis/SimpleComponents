@@ -22,4 +22,4 @@ If you'd like to contribute code, please follow our [contributing guidelines](ht
 
 ## 🙏 Credits
 
-This library was initially developed by [Archontis Kostis](www.github.com/ArchontisKostis). Thank you for using it and we hope it helps you in your projects!
+This library was initially developed by [Archontis Kostis](https://github.com/ArchontisKostis). Thank you for using it and we hope it helps you in your projects!
