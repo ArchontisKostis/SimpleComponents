@@ -18,7 +18,7 @@ The SimpleComponents library is licensed under [insert license here]. Please see
 ## 🤝 Contributing
 
 We welcome contributions to the SimpleComponents library! If you have an idea for a new feature or a bug fix, please open an issue or a pull request. We're always looking for ways to make the library better, and we appreciate your help. <br>
-If you'd like to contribute code, please follow our [contributing guidelines](https://github.com/ArchontisKostis/SimpleComponents/blob/main/docs/CONTRIBUTING.MD) and open a pull request.
+If you'd like to contribute code, please follow our [contributing guidelines](https://github.com/ArchontisKostis/SimpleComponents/blob/main/docs/contributing.md) and open a pull request.
 
 ## 🙏 Credits
 
