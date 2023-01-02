@@ -53,7 +53,7 @@ We are constantly working on improving and adding new features to the SimpleComp
 
 ## Contributing 🤝
 
-We welcome contributions to the SimpleComponents library! If you have an idea for a new feature or have found a bug, please open an issue on GitHub. If you'd like to contribute code, please follow our [contributing guidelines](https://github.com/ArchontisKostis/SimpleComponents/blob/main/docs/CONTRIBUTING.MD) and open a pull request.
+We welcome contributions to the SimpleComponents library! If you have an idea for a new feature or have found a bug, please open an issue on GitHub. If you'd like to contribute code, please follow our [contributing guidelines](https://github.com/ArchontisKostis/SimpleComponents/blob/main/docs/contributing.md) and open a pull request.
 
 ## License 📜
 
